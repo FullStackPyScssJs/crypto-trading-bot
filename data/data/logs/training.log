@@ -1,0 +1,29 @@
+Start logowania treningu...
+2025-01-29 22:09:39,825 - 📊 Ładowanie danych...
+2025-01-29 22:09:39,917 - ✅ Wczytano plik: ADA_USDT.csv (2482 wierszy)
+2025-01-29 22:09:39,986 - ✅ Wczytano plik: BTC_USDT.csv (2725 wierszy)
+2025-01-29 22:09:40,023 - ✅ Wczytano plik: DOT_USDT.csv (1627 wierszy)
+2025-01-29 22:09:40,048 - ✅ Wczytano plik: ETH_USDT.csv (2725 wierszy)
+2025-01-29 22:09:40,081 - ✅ Wczytano plik: LINK_USDT.csv (2208 wierszy)
+2025-01-29 22:09:40,126 - ✅ Wczytano plik: MATIC_USDT.csv (1966 wierszy)
+2025-01-29 22:09:40,164 - ✅ Wczytano plik: SOL_USDT.csv (1634 wierszy)
+2025-01-29 22:09:40,237 - ✅ Wczytano plik: XRP_USDT.csv (2465 wierszy)
+2025-01-29 23:34:06,909 - ✅ Model zapisany do D:\TitanFlow\data\data\model\lstm_best_model.h5
+2025-02-14 22:51:14,308 - 📊 Ładowanie danych...
+2025-02-14 22:51:14,343 - ✅ Wczytano plik: ADA_USDT.csv (2482 wierszy)
+2025-02-14 22:51:14,386 - ✅ Wczytano plik: BTC_USDT.csv (2725 wierszy)
+2025-02-14 22:51:14,413 - ✅ Wczytano plik: DOT_USDT.csv (1627 wierszy)
+2025-02-14 22:51:14,438 - ✅ Wczytano plik: ETH_USDT.csv (2725 wierszy)
+2025-02-14 22:51:14,467 - ✅ Wczytano plik: LINK_USDT.csv (2208 wierszy)
+2025-02-14 22:51:14,489 - ✅ Wczytano plik: MATIC_USDT.csv (1966 wierszy)
+2025-02-14 22:51:14,517 - ✅ Wczytano plik: SOL_USDT.csv (1634 wierszy)
+2025-02-14 22:51:14,551 - ✅ Wczytano plik: XRP_USDT.csv (2465 wierszy)
+2025-02-14 22:53:34,396 - 📊 Ładowanie danych...
+2025-02-14 22:53:34,423 - ✅ Wczytano plik: ADA_USDT.csv (2482 wierszy)
+2025-02-14 22:53:34,447 - ✅ Wczytano plik: BTC_USDT.csv (2725 wierszy)
+2025-02-14 22:53:34,471 - ✅ Wczytano plik: DOT_USDT.csv (1627 wierszy)
+2025-02-14 22:53:34,495 - ✅ Wczytano plik: ETH_USDT.csv (2725 wierszy)
+2025-02-14 22:53:34,517 - ✅ Wczytano plik: LINK_USDT.csv (2208 wierszy)
+2025-02-14 22:53:34,538 - ✅ Wczytano plik: MATIC_USDT.csv (1966 wierszy)
+2025-02-14 22:53:34,558 - ✅ Wczytano plik: SOL_USDT.csv (1634 wierszy)
+2025-02-14 22:53:34,581 - ✅ Wczytano plik: XRP_USDT.csv (2465 wierszy)
